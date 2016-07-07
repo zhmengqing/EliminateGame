@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c590df4a3dff5c8fdf46daf92a5ca679$ -->
+<TextureAtlas imagePath="IconRes.png">
+    <SubTexture name="Icon0001" x="86" y="2" width="40" height="40"/>
+    <SubTexture name="Icon0002" x="44" y="2" width="40" height="40"/>
+    <SubTexture name="Icon0003" x="2" y="86" width="40" height="40"/>
+    <SubTexture name="Icon0004" x="2" y="44" width="40" height="40"/>
+    <SubTexture name="Icon0005" x="2" y="2" width="40" height="40"/>
+</TextureAtlas>
